@@ -8,4 +8,5 @@ import com.example.account_service_springboot.entity.Account;
 @Repository
 public interface AccountRepository extends JpaRepository<Account, Long> {
 
+
 }
